@@ -10,6 +10,16 @@
 
 	// Configure tool-specific properties.
 	// "customizations": {},
+	// Configure tool-specific properties.
+"customizations": {
+	// Configure properties specific to VS Code.
+	"vscode": {
+	  "extensions": [
+		"ikappas.composer"
+	  ]
+	}
+  },
+  
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
